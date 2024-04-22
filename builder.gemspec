@@ -40,7 +40,7 @@ simple to do.  Currently the following builder objects are supported:
 
   s.authors = ["Jim Weirich", "Aaron Patterson"]
   s.email = "aron.patterson@gmail.com"
-  s.homepage = "https://github.com/tenderlove/builder"
+  s.homepage = "https://github.com/rails/builder"
   s.license = 'MIT'
   s.metadata = {
     "bug_tracker_uri"   => "#{s.homepage}/issues",
