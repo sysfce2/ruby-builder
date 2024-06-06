@@ -8,6 +8,7 @@
 # and distribution of modified versions of this work as long as the
 # above copyright notice is included.
 
+require 'bundler/gem_tasks'
 require 'rake/clean'
 require 'rake/testtask'
 begin

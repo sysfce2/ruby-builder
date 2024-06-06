@@ -1,5 +1,10 @@
 = Change Log
 
+== Version 3.3.0 (2024-06-06)
+
+* Fix broken call to `File.exists?` in `tags.rake`.
+* Use BasicObject instead of BlankSlate for better compatibility with modern rubies.
+
 == Version 3.2.4 (2019-12-10)
 
 * Strings were frozen by adding `# frozen_string_literal: true` to all files
